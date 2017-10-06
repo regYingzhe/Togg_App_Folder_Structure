@@ -1,3 +1,3 @@
-import Main from './assets/Main'
+import Main from './src/Main'
 
 export default Main;
